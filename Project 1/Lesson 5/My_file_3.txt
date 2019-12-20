@@ -1,0 +1,5 @@
+Smith 30000
+Braun 8000
+White 19000
+Foster 43000
+McAlister 16000
